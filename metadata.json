@@ -1,0 +1,6 @@
+{
+  "name": "Nirwana River Cafe & Resto",
+  "description": "Website resmi Nirwana River Cafe & Resto. Cita rasa kuliner khas Sunda kontemporer dan hidangan Nusantara dalam suasana hangat dan elegan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
